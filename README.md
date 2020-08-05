@@ -4,16 +4,18 @@
 
 ### 🎓 Education
 * Undergraduate student in Dept. of Electronics Engineering, Incheon National University (2017.03 ~)
-* Expected date of graduation: 2023.02
+* Expected date of graduation: 2023.02 
+
+#### 🌱 I’m currently learning Maching Learning(Vision, NLP), Web, etc...
 
 ### 🌱 Technical Skills
 #### ✨ SoftWare
-* 📚: Languages**: Python3, C, JavaScript
-* 📦: Framework**: Tensorflow, Keras, 
-* 🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode, Visual Studio
-* 🔨: Tools**: Git, Github
+* **📚: Languages**: Python3, C, JavaScript
+* **📦: Framework**: Tensorflow, Keras, ROS
+* **🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode
+* **🔨: Tools**: Git, Github
 
- 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://jinho-study.tistory.com//)
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1)](https://github.com/anuraghazra/github-readme-stats)
  
