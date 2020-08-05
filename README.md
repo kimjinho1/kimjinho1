@@ -20,7 +20,7 @@
    
   
   
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://jinho-study.tistory.com//) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jinho-kim-a08452191/)](www.linkedin.com/in/jinho-kim-a08452191/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://jinho-study.tistory.com//) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/jinho-kim-a08452191/)
 
 
  <!--
