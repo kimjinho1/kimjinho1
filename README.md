@@ -9,7 +9,6 @@
 
 ### 🔭 I’m currently learning Maching Learning(Vision, NLP), Web, etc...   
 ### 😄 You can check my [CV](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370) here  
-<br></br>  
 
 ### 🌱 Technical Skills  
 #### ✨ SoftWare  
@@ -17,10 +16,10 @@
 * **📦: Framework**: Tensorflow, Keras, ROS  
 * **🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode  
 * **🔨: Tools**: Git, Github    
-<br></br>  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
 
