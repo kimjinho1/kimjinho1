@@ -8,7 +8,7 @@
 
 
 ### 🔭 I’m currently learning Maching Learning(Vision, NLP), Web, etc...   
-### 😄 You can check my [CV](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370) here  
+### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)  
 
 ### 🌱 Technical Skills  
 #### ✨ SoftWare  
