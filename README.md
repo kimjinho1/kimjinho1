@@ -12,7 +12,7 @@
 
 ### 🌱 Technical Skills  
 #### ✨ SoftWare  
-* **📚: Languages**: Python3, C, JavaScript  
+* **📚: Languages**: Python, C, JavaScript  
 * **📦: Framework**: Tensorflow, Keras  
 * **🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode  
 * **🔨: Tools**: Git, Github    
