@@ -1,6 +1,6 @@
 ## Hi there I'm Jinho Kim👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
-## 🔭 I'm a student developer studying in 42Seoul and currently interestded in machine Learning(Vision, NLP), Web, etc...   
+### 🔭 I'm a student developer studying in 42Seoul and currently interestded in machine Learning(Vision, NLP), Web, etc...   
 
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)
 
