@@ -2,13 +2,14 @@
 
 ## Jinho Kim @kimjinho1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
+[![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/[user_name])](https://github.com/JaeSeoKim/badge42)
+
+### 🔭 I'm a student developer studying in 42Seoul and currently interestded in machine Learning(Vision, NLP), Web, etc...   
+### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)  
+
 ### 🎓 Education  
 * Undergraduate student in Dept. of Electronics Engineering, Incheon National University (2017.03 ~)  
-* Expected date of graduation: 2023.02   
-
-
-### 🔭 I’m currently learning Maching Learning(Vision, NLP), Web, etc...   
-### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)  
+* Expected date of graduation: 2023.02
 
 ### 🌱 Technical Skills  
 #### ✨ SoftWare  
