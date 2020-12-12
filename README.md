@@ -1,10 +1,8 @@
 ## Hi there I'm Jinho Kim👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
-### ~~🔭 I'm a student developer studying in 42Seoul~~
+### 🔭 I'm a student developer studying in 42Seoul
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
-<!--
--->
-### 🔭 I'm a student developer serving as a social service worker
+### 😢 But now, I took a leave of absence because of military service
 
 
 ### 🚀 i'm currently interested in machine Learning(Vision, NLP), Web, etc...
