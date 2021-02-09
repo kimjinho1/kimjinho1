@@ -1,9 +1,13 @@
 ## Hi there I'm Jinho Kim👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
-### 🔭 I'm a student developer studying in 42Seoul
-[![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
-### 😢 But now, I took a leave of absence because of military service
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
+### 🔭 I'm a student developer studying in 42Seoul
+<!--
+[![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
+-->
+### 😢 But now, I took a leave of absence because of military service
 
 ### 🚀 i'm currently interested in machine Learning(Vision, NLP), Web, etc...
 ### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)  
