@@ -1,5 +1,8 @@
 ## Hi there I'm Jinho Kim👋 ***@jjhhkim*** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
+
 ### 🔭 I'm a student developer studying in 42Seoul
 <!--
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
@@ -21,9 +24,6 @@
 * **📦: Framework**: Tensorflow, Keras  
 * **🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode  
 * **🔨: Tools**: Git, Github    
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
 
 [![Jinho's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1)](https://github.com/anuraghazra/github-readme-stats)  
 
