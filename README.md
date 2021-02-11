@@ -23,8 +23,9 @@
 * **🚀: Dev IDE**: Anaconda jupyter, PyCharm, VSCode  
 * **🔨: Tools**: Git, Github    
 
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1)](https://github.com/anuraghazra/github-readme-stats)  
-
+</p>
 <!--
 -->
 
