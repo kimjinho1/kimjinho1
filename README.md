@@ -1,9 +1,9 @@
 ## Hi there I'm Jinho Kim👋 ***@jjhhkim*** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
 <!--
--->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
+-->
 
 ### 🔭 I'm a student developer studying in 42Seoul
 <!--
