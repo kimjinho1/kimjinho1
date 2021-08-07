@@ -44,7 +44,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 * **IDEs/Editors**:
-![Jupyter notebook](https://img.shields.io/badge/JupyterNotebook.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook.svg?style=flat-square&logo=jupyter-notebook&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 
