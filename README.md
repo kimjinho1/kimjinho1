@@ -20,21 +20,6 @@
 * Expected date of graduation: 2023.02
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-* **DB**: 
-<img src="https://img.shields.io/badge/mongodb-339933?style=flat-square&logo=mongodb&logoColor=white"/></a>
-* **Search engine**: 
-<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/></a>
-* **Version control**: 
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gitkraken-1572B6?style=flat-square&logo=Gitkraken&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-* **OS**:
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-* **Cloud**:
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
-
 -->
 
 ### ✨ SoftWare
@@ -45,8 +30,8 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 * **DeepLearning Framework**: 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 
 * **Dev IDE**:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
