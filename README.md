@@ -25,9 +25,9 @@
 ### ✨ SoftWare
 * **Programming Languages**: 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+<!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) -->
 * **Framework**: 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
