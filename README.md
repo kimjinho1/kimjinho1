@@ -11,7 +11,7 @@
 
 ### 😢 But now, I took a leave of absence because of military service
 
-### 🚀 i'm currently interested in data engineering...
+<!-- ### 🚀 i'm currently interested in data engineering... -->
 <!-- ### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)   -->
 
 <!--
