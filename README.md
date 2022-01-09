@@ -1,6 +1,7 @@
 ## Hi there I'm Jinho Kim👋 ***@jjhhkim*** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={kimhjino1}&theme=warm)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
 
 <!--
 [![Solved.ac
