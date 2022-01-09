@@ -39,6 +39,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 * **IDEs/Editors**:
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 * **OS**: 
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
