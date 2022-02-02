@@ -55,7 +55,8 @@
 <br></br>  
 
 [![Jinho's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jinho.v2//)](https://www.instagram.com/jinho.v2/)
