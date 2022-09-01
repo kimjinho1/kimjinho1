@@ -20,9 +20,6 @@
 * Expected date of graduation: 2023.02
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
--->
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 
 ### ✨ SoftWare
