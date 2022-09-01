@@ -7,6 +7,8 @@
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
 -->
 
+
+
 ### 🔭 I'm a student developer studying in 42Seoul
 
 ### 😢 But now, I took a leave of absence because of military service
@@ -21,6 +23,8 @@
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 -->
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 
 ### ✨ SoftWare
