@@ -7,7 +7,10 @@
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
 -->
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
 
+[![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
 
 ### 🔭 I'm a student developer studying in 42Seoul
 
