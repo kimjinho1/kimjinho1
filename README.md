@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 * **Framework**: 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 * **Version control:**: 
