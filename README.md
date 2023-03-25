@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 * **Framework**: 
-![React](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 * **Version control:**: 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
