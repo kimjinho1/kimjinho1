@@ -46,8 +46,8 @@
 
 ![kimjinho1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&theme=city_lights&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimjinho1&theme=github-dark-blue)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimjinho1&theme=github-dark-blue)](https://git.io/streak-stats)
+ -->
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
