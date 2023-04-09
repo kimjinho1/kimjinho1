@@ -44,6 +44,8 @@
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://jinho-study.tistory.com//) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/jinho-kim-a08452191/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfhgk62@gmail.com)](mailto:dlfhgk62@gmail.com)
 <br></br>   -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=kimjinho1&show_icons=true&theme=discord_old_blurple" width="400">
+
 [![Jinho's github stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinho1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
