@@ -44,7 +44,7 @@
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinho-study.tistory.com//)](https://jinho-study.tistory.com//) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho-kim-a08452191/)](https://www.linkedin.com/in/jinho-kim-a08452191/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfhgk62@gmail.com)](mailto:dlfhgk62@gmail.com)
 <br></br>   -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&theme=city_lights&show_icons=true)
+![kimjinho1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&theme=city_lights&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimjinho1&theme=github-dark-blue)](https://git.io/streak-stats)
 
