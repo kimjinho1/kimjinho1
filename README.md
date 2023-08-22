@@ -47,7 +47,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinho1)](https://github.com/kimjinho1/github-readme-stats)
  -->
 
-![kimjinho1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&theme=city_lights&show_icons=true)
+<!-- ![kimjinho1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho1&theme=city_lights&show_icons=true) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimjinho1&theme=github-dark-blue)](https://git.io/streak-stats)
  -->
