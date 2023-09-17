@@ -7,8 +7,7 @@
 [![jinhokim's 42 stats](https://badge42.herokuapp.com/api/stats/jinhokim)](https://github.com/JaeSeoKim/badge42)  
 -->
 
-### 🔭 I'm a student developer studying in 42Seoul
-
+<!-- ### 🔭 I'm a student developer studying in 42Seoul -->
 <!-- ### 🚀 i'm currently interested in data engineering... -->
 <!-- ### 😄 You can check my CV [here](https://www.notion.so/Jinho-Kim-b84a37e6fa414a0593d2d6d42e854370)   -->
 
