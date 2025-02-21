@@ -43,6 +43,8 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![LogStash](https://img.shields.io/badge/-LogStash-005571?style=flat-square&logo=logstash)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 * **FrontEnd**: 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
