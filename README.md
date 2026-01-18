@@ -46,10 +46,12 @@
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+<!--
 * **FrontEnd**: 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=flat-square&logo=recoil&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+-->
 * **Other**: 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
