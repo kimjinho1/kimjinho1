@@ -1,6 +1,5 @@
 ## Hi there I'm Jinho Kim👋 ***@jjhhkim*** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinho1)](https://hits.seeyoufarm.com)
 
-**꾸준히 성장하는, 실력 있는 개발자를 꿈꾸는 김진호입니다.**
 <!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjhhkim)](https://solved.ac/jjhhkim)
